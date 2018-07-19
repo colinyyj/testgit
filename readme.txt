@@ -3,3 +3,5 @@ Git is free software. //改动第一次 //第二次改动  //第三次改动
 
 test hello word.
 测试版本管理。
+
+creating a new branch is quick, Name is dev.
